@@ -15,3 +15,16 @@
 #start,#status{
     font-size: 22px;
 }
+h4{
+    background-color: white;
+    line-height: 2;
+    margin: 0px;
+}
+.modal_dialog{
+    width: 90%;
+}
+.instructions{
+    color: red;
+    width: 45%;
+    display: inline-block;
+}
